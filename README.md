@@ -30,10 +30,10 @@ seasons: Kharif, Rabi, and Zaid.
 - Sugarcane has significantly higher yield than all other crops
 - Sugarcane and Chilli are the only crops with consistently 
   positive average profit
-- Rainfed farming shows highest water efficiency ratio; 
+- Rainfed farming shows highest water efficiency ratio, 
   Drip is most efficient among managed irrigation methods
 - Disease and pest risk is normally distributed (35-60%) 
-  across all farms — a universal concern, not region-specific
+  across all farms, a universal concern and not region-specific
 
 ## Files
 - `Seasonal_Agriculture_Analysis.ipynb` - Full analysis notebook
