@@ -36,10 +36,11 @@ seasons: Kharif, Rabi, and Zaid.
   across all farms — a universal concern, not region-specific
 
 ## Files
-- `Seasonal_Agriculture_Analysis.ipynb` - Full analysis notebook
-- `seasonal_agriculture_performance_dataset.csv` — Dataset
+- 'Seasonal_Agriculture_Analysis.ipynb' - Full analysis notebook
+- 'seasonal_agriculture_performance_dataset.cs' - Dataset
+- 'seasonal_Agriculture_Analysis.png - Dashboard
 
 ## Program
 VOIS for Tech Data Analytics Internship - Major DIY Project
 Edunet Foundation | Vodafone Idea Foundation | AICTE
-August – September 2026
+August - September 2026
