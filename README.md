@@ -37,7 +37,7 @@ seasons: Kharif, Rabi, and Zaid.
 
 ## Files
 - `Seasonal_Agriculture_Analysis.ipynb` - Full analysis notebook
-- `seasonal_agriculture_performance_dataset.cs` - Dataset
+- `seasonal_agriculture_performance_dataset.csv` - Dataset
 - `Seasonal_Agriculture_Analysis.png` - Dashboard
 
 ## Program
